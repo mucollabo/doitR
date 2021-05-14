@@ -1,0 +1,54 @@
+a <- 1
+a+2
+
+var1 <- seq(1, 70, by = 2)
+var1
+
+var2 <- seq(from=0, to=20, length.out=5)
+var2
+
+var3 <- seq(0, 20, 5)
+var3
+
+var4 <- rep(1, time=5)
+var4
+
+var5 <- rep(1, 5)
+var5
+
+x <- c(1,2,3,4)
+x
+
+x <- c(6.25, 3.14, 5.18)
+x
+
+x <- c("fee", "fie", "fun")
+x
+
+x <- c(x, var1, var2)
+x
+
+substr("Bigdataanalysis", 1, 4)
+
+var5 <- seq(1, 10, by=3)
+var5
+
+var5 + 1
+
+var1 + var2
+
+str1 <- "a"
+str1
+
+str2 <- "text"
+str2
+
+str3 <- "Hello World"
+str3
+
+str4 <- c("a", "b", "c")
+str4
+
+str5 <- c("Hello!", "World", "is", "good!")
+str5
+
